@@ -1,0 +1,4 @@
+Add the Embeddings here
+
+embeddings/glove.6B.50d.txt
+embeddings/GoogleNews-vectors-negative300.bin
