@@ -34,7 +34,7 @@ run.py: error: the following arguments are required: --embedding
 ```text
 fetch data 
 ```
-![](https://www.cs.umb.edu/~smimarog/textmining/datasets/)
+[](https://www.cs.umb.edu/~smimarog/textmining/datasets/)
 
 ```text
 features: sentenes
@@ -49,13 +49,13 @@ labels: acq, crude, earn, grain, interest, money-fx, ship, trade
 ```text
 fetch embedding
 ```
-![](https://code.google.com/archive/p/word2vec/)
+[Word2Vec](https://code.google.com/archive/p/word2vec/)
 ## Glove
 ```text
 fetch embedding
 ```
-![](http://nlp.stanford.edu/data/glove.6B.zip)
-![](https://nlp.stanford.edu/projects/glove/)
+[GloVe](http://nlp.stanford.edu/data/glove.6B.zip)
+[Direct Link](https://nlp.stanford.edu/projects/glove/)
 
 ```shell
 gunzip GoogleNews-vectors-negative300.bin.gz
